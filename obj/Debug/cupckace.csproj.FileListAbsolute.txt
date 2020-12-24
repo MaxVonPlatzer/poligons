@@ -1,0 +1,10 @@
+D:\max\ооп\cupckace\bin\Debug\cupckace.exe.config
+D:\max\ооп\cupckace\bin\Debug\cupckace.exe
+D:\max\ооп\cupckace\bin\Debug\cupckace.pdb
+D:\max\ооп\cupckace\obj\Debug\cupckace.csprojAssemblyReference.cache
+D:\max\ооп\cupckace\obj\Debug\cupckace.Form1.resources
+D:\max\ооп\cupckace\obj\Debug\cupckace.Properties.Resources.resources
+D:\max\ооп\cupckace\obj\Debug\cupckace.csproj.GenerateResource.cache
+D:\max\ооп\cupckace\obj\Debug\cupckace.csproj.CoreCompileInputs.cache
+D:\max\ооп\cupckace\obj\Debug\cupckace.exe
+D:\max\ооп\cupckace\obj\Debug\cupckace.pdb
